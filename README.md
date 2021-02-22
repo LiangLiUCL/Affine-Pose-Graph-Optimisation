@@ -54,7 +54,7 @@ $ make
 
 ## Usage
 
-###Optimisation:
+### Optimisation:
 ```
 $ affine_g2o ../data/*.g2o (* is the filename)
 ```
@@ -64,7 +64,7 @@ $ affine_g2o ../data/*.g2o (* is the filename)
 sim_generate -o *.g2o (* is the filename)
 ```
 
-##TODO
+## TODO
 
 Add comments to the code.
 Add more explanation to this README file.
