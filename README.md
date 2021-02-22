@@ -61,7 +61,7 @@ $ affine_g2o ../data/*.g2o (* is the filename)
 
 ### Simulation data creation
 ```
-sim_generate -o *.g2o (* is the filename)
+$ sim_generate -o *.g2o (* is the filename)
 ```
 
 ## TODO
